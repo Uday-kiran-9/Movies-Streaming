@@ -1,4 +1,4 @@
-# 🎬 UDAY CINEMAS - Movies & Series
+# 🎬 UDAY CINEMAS - Movies & Series App
 
 A modern, Netflix-inspired movie & TV show web application built using **HTML, CSS, and Vanilla JavaScript**.
 It features a sleek UI, dynamic filtering, hero carousel, watchlist system, and smooth user interactions — all without any frameworks.

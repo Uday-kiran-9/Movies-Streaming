@@ -97,7 +97,7 @@ PROJECT UDAY CINEMAS/
 2. Open `index.html` in your browser.
 
 3. visit the web app:
-    https://uday-kiran-9.github.io/Movies-Streaming/
+     https://uday-kiran-9.github.io/UDAY-CINEMAS/
 
 ---
 
